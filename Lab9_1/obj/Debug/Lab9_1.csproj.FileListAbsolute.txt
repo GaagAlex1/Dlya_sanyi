@@ -1,0 +1,16 @@
+C:\Users\tolik\source\repos\Lab9_1\Lab9_1\bin\Debug\Lab9_1.exe.config
+C:\Users\tolik\source\repos\Lab9_1\Lab9_1\bin\Debug\Lab9_1.exe
+C:\Users\tolik\source\repos\Lab9_1\Lab9_1\bin\Debug\Lab9_1.pdb
+C:\Users\tolik\source\repos\Lab9_1\Lab9_1\obj\Debug\Lab9_1.csproj.AssemblyReference.cache
+C:\Users\tolik\source\repos\Lab9_1\Lab9_1\obj\Debug\Lab9_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tolik\source\repos\Lab9_1\Lab9_1\obj\Debug\MainWindow.g.cs
+C:\Users\tolik\source\repos\Lab9_1\Lab9_1\obj\Debug\App.g.cs
+C:\Users\tolik\source\repos\Lab9_1\Lab9_1\obj\Debug\Lab9_1_MarkupCompile.cache
+C:\Users\tolik\source\repos\Lab9_1\Lab9_1\obj\Debug\Lab9_1_MarkupCompile.lref
+C:\Users\tolik\source\repos\Lab9_1\Lab9_1\obj\Debug\MainWindow.baml
+C:\Users\tolik\source\repos\Lab9_1\Lab9_1\obj\Debug\Lab9_1.g.resources
+C:\Users\tolik\source\repos\Lab9_1\Lab9_1\obj\Debug\Lab9_1.Properties.Resources.resources
+C:\Users\tolik\source\repos\Lab9_1\Lab9_1\obj\Debug\Lab9_1.csproj.GenerateResource.cache
+C:\Users\tolik\source\repos\Lab9_1\Lab9_1\obj\Debug\Lab9_1.csproj.CoreCompileInputs.cache
+C:\Users\tolik\source\repos\Lab9_1\Lab9_1\obj\Debug\Lab9_1.exe
+C:\Users\tolik\source\repos\Lab9_1\Lab9_1\obj\Debug\Lab9_1.pdb
